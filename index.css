@@ -1,0 +1,18 @@
+.card_img {
+    aspect-ratio: 4/3;
+    object-fit: contain;
+}
+
+.color_purple {
+    color: purple;
+    font-weight: 600;
+}
+.color_yellow{
+    color:peru;
+}
+body {
+    background-color:#E9ECEF;
+}
+a{
+    text-decoration: none;
+}
